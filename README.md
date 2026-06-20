@@ -48,7 +48,7 @@ Make sure you have these installed:
 ```bash
 sudo pacman -S hyprlock playerctl imagemagick
 ```
-
+You must have install [**Anurati Font**](https://befonts.com/anurati-font.html) .
 ---
 
 ## 💡 Inspiration & Credits
