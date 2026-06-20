@@ -74,6 +74,14 @@ Then copy the files:
 cp -r * ~/.config/hypr/
 ```
 
+Or (symlinks, your own repo):
+
+```bash
+ln -s ~/Hyprlock-Dots/hyprlock.conf /home/glimp/.config/hypr/hyprlock.conf
+ln -s ~/Hyprlock-Dots/scripts/hyprlock-music.sh /home/glimp/.config/hypr/scripts/hyprlock-music.sh
+ln -s ~/Hyprlock-Dots/scripts/music.webp /home/glimp/.config/hypr/scripts/music.webp
+```
+
 Finally, test it:
 
 ```bash
