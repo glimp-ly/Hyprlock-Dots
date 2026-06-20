@@ -64,8 +64,8 @@ sudo pacman -S hyprlock playerctl imagemagick
 Clone this repo:
 
 ```bash
-git clone https://github.com/A3TH3Rr/Hyprlock.git
-cd hyprlock-glassy-music
+git clone https://github.com/glimp-ly/Hyprlock-Dots.git
+cd Hyprlock-Dots
 ```
 
 Then copy the files:
