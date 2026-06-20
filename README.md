@@ -9,7 +9,7 @@ Built for **Hyprland** on Arch Linux, inspired by community designs and refined 
 
 | Lock Screen |
 |--------------|
-| ![Preview](./Screenshots/lockscreen_spotify_2.png) |
+| ![Preview](./Screenshots/hyprlock_1.png) |
 
 ---
 
@@ -99,12 +99,12 @@ Especially if you know how to make the **progress bar smoother** — please open
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="./Screenshots/lockscreen_firefox_1.png" width="45%"/>
-  <img src="./Screenshots/lockscreen_firefox_2.png" width="45%"/>
+  <img src="./Screenshots/hyprlock_2.png" width="45%"/>
+  <img src="./Screenshots/hyprlock_3.png" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="./Screenshots/lockscreen_spotify_1.png" width="45%"/>
+  <img src="./Screenshots/hyprlock_4.png" width="45%"/>
 </p>
 
 
