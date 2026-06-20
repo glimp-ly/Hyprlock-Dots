@@ -10,7 +10,7 @@ set -Eeuo pipefail
 # ============================================================================
 
 # Player priority order (first available will be used)
-PREFERRED_PLAYERS="spotify,mpv,vlc,firefox,chromium,brave,chrome"
+PREFERRED_PLAYERS="chromium,spotify,mpv,vlc,firefox,brave,chrome"
 
 # Album art cache settings
 CACHE_DIR="${XDG_CACHE_HOME:-$HOME/.cache}/hyprlock-art"
@@ -323,14 +323,14 @@ get_player_display() {
   player="$(get_active_player)"
 
   case "${player,,}" in
+  chromium*)
+    printf '󰀥  YT Music'
+    ;;
   spotify*)
     printf '󰓇  Spotify'
     ;;
   firefox*)
     printf '󰈹  Firefox'
-    ;;
-  chromium*)
-    printf '󰊯  Chromium'
     ;;
   brave*)
     printf '󰞀  Brave'
