@@ -9,7 +9,7 @@ Built for **Hyprland** on Arch Linux, inspired by community designs and refined 
 
 | Lock Screen |
 |--------------|
-| ![Preview](./Screenshots/hyprlock_1.png) |
+| ![Preview](./Screenshots/hyprlock_5.png) |
 
 ---
 
